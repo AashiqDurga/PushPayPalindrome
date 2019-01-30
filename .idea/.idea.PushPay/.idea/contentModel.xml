@@ -19,7 +19,7 @@
           </e>
         </e>
         <e p="PalindromeChecker.Tests.csproj" t="IncludeRecursive" />
-        <e p="UnitTest1.cs" t="Include" />
+        <e p="PalindromeCheckerTests.cs" t="Include" />
       </e>
       <e p="PushPay.sln" t="IncludeFlat" />
     </e>
