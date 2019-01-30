@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/PalindromeCheckerConsoleApp.csproj": {
+            "projectPath": "/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/PalindromeCheckerConsoleApp.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

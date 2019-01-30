@@ -1,0 +1,11 @@
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.deps.json
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.runtimeconfig.json
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.runtimeconfig.dev.json
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.csprojAssemblyReference.cache
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.csproj.CoreCompileInputs.cache
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.AssemblyInfoInputs.cache
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.AssemblyInfo.cs
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb

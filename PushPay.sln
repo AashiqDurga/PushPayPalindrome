@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker.Tests", "PalindromeChecker.Tests\PalindromeChecker.Tests.csproj", "{D19D6F3E-67C3-4ECD-B6CC-E0665A2474A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeCheckerConsoleApp", "PalindromeCheckerConsoleApp\PalindromeCheckerConsoleApp.csproj", "{94D64DE4-30D4-406B-8ADA-7CB9F503CA39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D19D6F3E-67C3-4ECD-B6CC-E0665A2474A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D19D6F3E-67C3-4ECD-B6CC-E0665A2474A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D19D6F3E-67C3-4ECD-B6CC-E0665A2474A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D64DE4-30D4-406B-8ADA-7CB9F503CA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D64DE4-30D4-406B-8ADA-7CB9F503CA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D64DE4-30D4-406B-8ADA-7CB9F503CA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D64DE4-30D4-406B-8ADA-7CB9F503CA39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

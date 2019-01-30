@@ -12,3 +12,6 @@
 /Users/aashiq.durga/src/Aashiq/PushPay/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb
 /Users/aashiq.durga/src/Aashiq/PushPay/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll
 /Users/aashiq.durga/src/Aashiq/PushPay/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb
+/Users/aashiq.durga/src/Aashiq/PushPay/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csproj.CopyComplete
