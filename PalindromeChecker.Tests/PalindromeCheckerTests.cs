@@ -7,13 +7,14 @@ namespace PalindromeChecker.Tests
     {
         [Theory]
         [InlineData("abcba", true)]
+        [InlineData("abcde", false)]
         public void GivenStringCheckIfItIsAPalindrome(string input, bool expected)
         {
 
             var palindromeChecker = new PalindromeChecker();
             var result = palindromeChecker.isPalindrome(input);
 
-            Assert.True(result);
+            Assert.Equal(expected,result);
         }
     }
 
