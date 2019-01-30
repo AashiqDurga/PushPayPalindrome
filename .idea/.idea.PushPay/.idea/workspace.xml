@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b406bbe-96df-4b41-b193-a0a0ed21a727" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeChecker.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeChecker.Tests.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/PalindromeChecker.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/PalindromeChecker.Tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PushPay.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PushPay.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeChecker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeCheckerConsoleApp/obj/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +21,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
-                <marker date="1548822407266" expanded="true" signature="47:646" ph="{...}" />
-                <marker date="1548822407266" expanded="true" signature="89:644" ph="{...}" />
-                <marker date="1548822407266" expanded="true" signature="420:638" ph="{...}" />
+                <marker date="1548873007810" expanded="true" signature="47:1452" ph="{...}" />
+                <marker date="1548873007810" expanded="true" signature="89:1450" ph="{...}" />
+                <marker date="1548873007810" expanded="true" signature="420:638" ph="{...}" />
+                <marker date="1548873007810" expanded="true" signature="738:1024" ph="{...}" />
+                <marker date="1548873007810" expanded="true" signature="1133:1444" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -49,12 +42,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeChecker.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="195">
+              <caret line="13" column="30" selection-start-line="8" selection-end-line="13" selection-end-column="51" />
               <folding>
-                <marker date="1548822531750" expanded="true" signature="52:495" ph="{...}" />
-                <marker date="1548822531750" expanded="true" signature="89:493" ph="{...}" />
-                <marker date="1548822531750" expanded="true" signature="148:487" ph="{...}" />
+                <marker date="1548873157658" expanded="true" signature="52:714" ph="{...}" />
+                <marker date="1548873157658" expanded="true" signature="89:712" ph="{...}" />
+                <marker date="1548873157658" expanded="true" signature="148:487" ph="{...}" />
+                <marker date="1548873157658" expanded="true" signature="567:706" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -73,12 +67,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
-                <marker date="1548822277599" expanded="true" signature="52:193" ph="{...}" />
-                <marker date="1548822277599" expanded="true" signature="72:191" ph="{...}" />
-                <marker date="1548822277599" expanded="true" signature="118:185" ph="{...}" />
+                <marker date="1548872863959" expanded="true" signature="52:732" ph="{...}" />
+                <marker date="1548872863959" expanded="true" signature="72:730" ph="{...}" />
+                <marker date="1548872863959" expanded="true" signature="174:252" ph="{...}" />
+                <marker date="1548872863959" expanded="true" signature="293:528" ph="{...}" />
+                <marker date="1548872863959" expanded="true" signature="608:724" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -97,8 +93,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs" />
         <option value="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeChecker.Tests.csproj" />
+        <option value="$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs" />
         <option value="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs" />
         <option value="$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeChecker.cs" />
       </list>
@@ -162,19 +158,24 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PalindromeCheckerConsoleApp/bin/Debug/netcoreapp2.2/PalindromeCheckerConsoleApp.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PalindromeCheckerConsoleApp" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeCheckerConsoleApp.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -190,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548821081261</updated>
-      <workItem from="1548821082926" duration="1455000" />
+      <workItem from="1548821082926" duration="3620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1455000" />
+    <option name="totallyTimeSpent" value="3620000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,7 +209,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -225,7 +225,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,44 +257,49 @@
     <entry file="file://$PROJECT_DIR$/PushPay.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <marker date="1548822277599" expanded="true" signature="52:193" ph="{...}" />
-            <marker date="1548822277599" expanded="true" signature="72:191" ph="{...}" />
-            <marker date="1548822277599" expanded="true" signature="118:185" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeChecker.Tests.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeCheckerConsoleApp.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/PalindromeCheckerConsoleApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1548872863959" expanded="true" signature="52:732" ph="{...}" />
+            <marker date="1548872863959" expanded="true" signature="72:730" ph="{...}" />
+            <marker date="1548872863959" expanded="true" signature="174:252" ph="{...}" />
+            <marker date="1548872863959" expanded="true" signature="293:528" ph="{...}" />
+            <marker date="1548872863959" expanded="true" signature="608:724" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
-            <marker date="1548822407266" expanded="true" signature="47:646" ph="{...}" />
-            <marker date="1548822407266" expanded="true" signature="89:644" ph="{...}" />
-            <marker date="1548822407266" expanded="true" signature="420:638" ph="{...}" />
+            <marker date="1548873007810" expanded="true" signature="47:1452" ph="{...}" />
+            <marker date="1548873007810" expanded="true" signature="89:1450" ph="{...}" />
+            <marker date="1548873007810" expanded="true" signature="420:638" ph="{...}" />
+            <marker date="1548873007810" expanded="true" signature="738:1024" ph="{...}" />
+            <marker date="1548873007810" expanded="true" signature="1133:1444" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeCheckerConsoleApp/PalindromeChecker.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="8" selection-end-line="13" selection-end-column="51" />
           <folding>
-            <marker date="1548822531750" expanded="true" signature="52:495" ph="{...}" />
-            <marker date="1548822531750" expanded="true" signature="89:493" ph="{...}" />
-            <marker date="1548822531750" expanded="true" signature="148:487" ph="{...}" />
+            <marker date="1548873157658" expanded="true" signature="52:714" ph="{...}" />
+            <marker date="1548873157658" expanded="true" signature="89:712" ph="{...}" />
+            <marker date="1548873157658" expanded="true" signature="148:487" ph="{...}" />
+            <marker date="1548873157658" expanded="true" signature="567:706" ph="{...}" />
           </folding>
         </state>
       </provider>
