@@ -9,6 +9,8 @@ namespace PalindromeChecker.Tests
         [InlineData("abcba", true)]
         [InlineData("abcde", false)]
         [InlineData("Mr owl ate my metal worm", true)]
+        [InlineData("Never Odd Or Even", true)]
+        [InlineData("Never Even Or Odd", false)]
         public void GivenStringCheckIfItIsAPalindrome(string input, bool expected)
         {
 

@@ -19,16 +19,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="375">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding>
-                <marker date="1548821900045" expanded="false" signature="6:26" ph="..." />
-                <marker date="1548821900045" expanded="true" signature="61:897" ph="{...}" />
-                <marker date="1548821900045" expanded="true" signature="103:478" ph="{...}" />
-                <marker date="1548821900045" expanded="true" signature="282:472" ph="{...}" />
-                <marker date="1548821900045" expanded="true" signature="514:895" ph="{...}" />
-                <marker date="1548821900045" expanded="true" signature="573:889" ph="{...}" />
-                <marker date="1548821900045" expanded="true" signature="795:852" ph="{...}" />
+                <marker date="1548822182271" expanded="false" signature="6:26" ph="..." />
+                <marker date="1548822182271" expanded="true" signature="61:1105" ph="{...}" />
+                <marker date="1548822182271" expanded="true" signature="103:630" ph="{...}" />
+                <marker date="1548822182271" expanded="true" signature="434:624" ph="{...}" />
+                <marker date="1548822182271" expanded="true" signature="666:1103" ph="{...}" />
+                <marker date="1548822182271" expanded="true" signature="725:1097" ph="{...}" />
+                <marker date="1548822182271" expanded="true" signature="1003:1060" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548821081261</updated>
-      <workItem from="1548821082926" duration="848000" />
+      <workItem from="1548821082926" duration="1106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="848000" />
+    <option name="totallyTimeSpent" value="1106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,16 +183,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="375">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding>
-            <marker date="1548821900045" expanded="false" signature="6:26" ph="..." />
-            <marker date="1548821900045" expanded="true" signature="61:897" ph="{...}" />
-            <marker date="1548821900045" expanded="true" signature="103:478" ph="{...}" />
-            <marker date="1548821900045" expanded="true" signature="282:472" ph="{...}" />
-            <marker date="1548821900045" expanded="true" signature="514:895" ph="{...}" />
-            <marker date="1548821900045" expanded="true" signature="573:889" ph="{...}" />
-            <marker date="1548821900045" expanded="true" signature="795:852" ph="{...}" />
+            <marker date="1548822182271" expanded="false" signature="6:26" ph="..." />
+            <marker date="1548822182271" expanded="true" signature="61:1105" ph="{...}" />
+            <marker date="1548822182271" expanded="true" signature="103:630" ph="{...}" />
+            <marker date="1548822182271" expanded="true" signature="434:624" ph="{...}" />
+            <marker date="1548822182271" expanded="true" signature="666:1103" ph="{...}" />
+            <marker date="1548822182271" expanded="true" signature="725:1097" ph="{...}" />
+            <marker date="1548822182271" expanded="true" signature="1003:1060" ph="{...}" />
           </folding>
         </state>
       </provider>
