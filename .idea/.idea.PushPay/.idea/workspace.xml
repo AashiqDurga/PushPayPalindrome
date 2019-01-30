@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b406bbe-96df-4b41-b193-a0a0ed21a727" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PushPay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeChecker.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeChecker.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/bin/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeChecker.Tests/obj/Debug/netcoreapp2.2/PalindromeChecker.Tests.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,16 +19,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="15" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="210">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <marker date="1548821677003" expanded="false" signature="6:26" ph="..." />
-                <marker date="1548821677003" expanded="true" signature="61:868" ph="{...}" />
-                <marker date="1548821677003" expanded="true" signature="103:449" ph="{...}" />
-                <marker date="1548821677003" expanded="true" signature="218:443" ph="{...}" />
-                <marker date="1548821677003" expanded="true" signature="485:866" ph="{...}" />
-                <marker date="1548821677003" expanded="true" signature="544:860" ph="{...}" />
-                <marker date="1548821677003" expanded="true" signature="766:823" ph="{...}" />
+                <marker date="1548821900045" expanded="false" signature="6:26" ph="..." />
+                <marker date="1548821900045" expanded="true" signature="61:897" ph="{...}" />
+                <marker date="1548821900045" expanded="true" signature="103:478" ph="{...}" />
+                <marker date="1548821900045" expanded="true" signature="282:472" ph="{...}" />
+                <marker date="1548821900045" expanded="true" signature="514:895" ph="{...}" />
+                <marker date="1548821900045" expanded="true" signature="573:889" ph="{...}" />
+                <marker date="1548821900045" expanded="true" signature="795:852" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548821081261</updated>
-      <workItem from="1548821082926" duration="593000" />
+      <workItem from="1548821082926" duration="848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="593000" />
+    <option name="totallyTimeSpent" value="848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -132,7 +133,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -183,16 +183,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeChecker.Tests/PalindromeCheckerTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="15" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1548821677003" expanded="false" signature="6:26" ph="..." />
-            <marker date="1548821677003" expanded="true" signature="61:868" ph="{...}" />
-            <marker date="1548821677003" expanded="true" signature="103:449" ph="{...}" />
-            <marker date="1548821677003" expanded="true" signature="218:443" ph="{...}" />
-            <marker date="1548821677003" expanded="true" signature="485:866" ph="{...}" />
-            <marker date="1548821677003" expanded="true" signature="544:860" ph="{...}" />
-            <marker date="1548821677003" expanded="true" signature="766:823" ph="{...}" />
+            <marker date="1548821900045" expanded="false" signature="6:26" ph="..." />
+            <marker date="1548821900045" expanded="true" signature="61:897" ph="{...}" />
+            <marker date="1548821900045" expanded="true" signature="103:478" ph="{...}" />
+            <marker date="1548821900045" expanded="true" signature="282:472" ph="{...}" />
+            <marker date="1548821900045" expanded="true" signature="514:895" ph="{...}" />
+            <marker date="1548821900045" expanded="true" signature="573:889" ph="{...}" />
+            <marker date="1548821900045" expanded="true" signature="795:852" ph="{...}" />
           </folding>
         </state>
       </provider>

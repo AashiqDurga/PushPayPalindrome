@@ -8,6 +8,7 @@ namespace PalindromeChecker.Tests
         [Theory]
         [InlineData("abcba", true)]
         [InlineData("abcde", false)]
+        [InlineData("Mr owl ate my metal worm", true)]
         public void GivenStringCheckIfItIsAPalindrome(string input, bool expected)
         {
 
@@ -22,6 +23,7 @@ namespace PalindromeChecker.Tests
     {
         public bool isPalindrome(string inputString)
         {
+            inputString = inputString.Replace(" ", "");
             char[] charArray = inputString.ToLower().ToCharArray();
             Array.Reverse(charArray);
             var palindrome = new string(charArray);
